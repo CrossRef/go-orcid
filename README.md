@@ -10,12 +10,12 @@ This file is heavily based on the demo file that comes with `goauth2`. It curren
 
 1. Install dependencies
 
-       go get github.com/CrossRef/goauth2-orcid/oauth
+        go get github.com/CrossRef/goauth2-orcid/oauth
 
    In future, when the changes are merged back, this will be:
 
 
-       go get code.google.com/p/goauth2/oauth
+        go get code.google.com/p/goauth2/oauth
 
 2. Insert your credentials:
 
