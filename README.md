@@ -35,9 +35,9 @@ This file is heavily based on the demo file that comes with `goauth2`. It curren
 3. Run it
 
  
-   1.
+    1. First run:
 
-         go run demo.go
+            go run demo.go
 
       and follow instructions. 
     
@@ -45,7 +45,7 @@ This file is heavily based on the demo file that comes with `goauth2`. It curren
     3. On success you will will end up with an ORCID redirect including a code.
     4. Run again with the code:
     
-           go run demo.go --code=MYCODE
+            go run demo.go --code=MYCODE
        
        and you should see the ORCID details returned to you.
     
